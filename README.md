@@ -32,14 +32,5 @@ To fix this issue and make our models robust, we implemented two key strategies:
 
 ## 5. Conclusion
 While predicting football outcomes is notoriously difficult due to inherent randomness, addressing class imbalance through **balanced class weights** and verifying generalization via **nested stratified cross-validation** successfully allowed our Random Forest model to start recognizing and predicting 'Draw' outcomes effectively, raising the F1-score of the Draw class significantly.
-```
 
-4. Scroll down to the **Commit changes...** box at the bottom (or top-right).
-5. Write a short commit message (e.g., `Update README with project report`).
-6. Select "Commit directly to the `main` (or `master`) branch" and click the green **Commit changes** button.
 
-Once completed, this report will immediately become the official homepage of your repository# Premier League Match Prediction Project Report
-
-## 1. Project Overview
-The goal of this project is to predict the outcomes of English Premier League matches (Home Win, Away Win, or Draw) using historical data from 1992 to 2023. We trained and evaluated two machine learning models: **Logistic Regression** and **Random Forest**.
-!
